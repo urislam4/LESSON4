@@ -1,0 +1,9 @@
+.col{
+    width: 400px;
+    height: 300px;
+    margin-left:800px;
+    background-color: rgb(230, 198, 94);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
